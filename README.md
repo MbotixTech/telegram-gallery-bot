@@ -5,9 +5,9 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/yourusername/telegram-gallery-bot?style=flat-square" alt="License">
-  <img src="https://img.shields.io/github/stars/yourusername/telegram-gallery-bot?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/forks/yourusername/telegram-gallery-bot?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/license/MbotixTech/telegram-gallery-bot?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/stars/MbotixTech/telegram-gallery-bot?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/forks/MbotixTech/telegram-gallery-bot?style=flat-square" alt="Forks">
 </p>
 
 ---
